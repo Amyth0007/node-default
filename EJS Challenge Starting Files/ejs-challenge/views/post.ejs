@@ -1,0 +1,11 @@
+<%- include("header") -%>
+
+  <% reqpost.forEach(element => {%>
+    <%  if(element.title=== reqtitle1){   %>
+          <h1><%= element.title %></h1>
+          <p><%=   element.content  %></p>
+
+    <%  }  %>
+ <% });%>
+
+<%- include("footer") -%>

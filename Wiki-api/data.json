@@ -1,0 +1,34 @@
+[
+    {
+        "_id": "62f4b2d34c871ea62ca636bd",
+        "title": "Rest",
+        "content": "Rest is representational state transfer its an architectrual for API'S"
+    },
+    {
+        "_id": "5c139771d79ac8eac11e754a",
+        "title": "API",
+        "content": "API stands for Application Programming Interface. It is a set of subroutine definitions, communication protocols, and tools for building software. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer."
+    },
+    {
+        "_id": "5c1398aad79ac8eac11e7561",
+        "title": "Bootstrap",
+        "content": "This is a framework developed by Twitter that contains pre-made front-end templates for web design"
+    },
+    {
+        "_id": "5c1398ecd79ac8eac11e7567",
+        "title": "DOM",
+        "content": "The Document Object Model is like an API for interacting with our HTML"
+    },
+    {
+        "_id": "62fe12c1991d85c9b0d30cd0",
+        "title": "day23",
+        "content": "its amit im to learning the code",
+        "__v": 0
+    },
+    {
+        "_id": "62fe13b360294888a6b9b83f",
+        "title": "day23",
+        "content": "its amit im to learn the code",
+        "__v": 0
+    }
+]
