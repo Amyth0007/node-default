@@ -171,7 +171,7 @@ app.post('/login' , function(req, res){
     // const post = {
     const title = req.body.posttitle;
     const content = req.body.postbody;
-    const uid = req.User._id;
+    // const uid = req.User._id;
     // }
     const Newb = new Blog({
 
